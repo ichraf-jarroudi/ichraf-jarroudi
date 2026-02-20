@@ -1,16 +1,30 @@
-## Hi there 👋
+# Ichraf Jarroudi
 
-<!--
-**ichraf-jarroudi/ichraf-jarroudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Odoo Developer | Python | ERP Solutions | Backend & Frontend Developer
 
-Here are some ideas to get you started:
+## About Me
+Web developer with 2 years of experience in Odoo development, backend and frontend customization, database management and deployment on Linux servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- Odoo (v12–v16)
+- PostgreSQL
+- XML
+- API Integration
+- Linux / Unix
+- Git
+
+## Professional Experience
+- Custom Odoo module development
+- Database migration and updates
+- Deployment on client servers
+- API integration (payment, logistics)
+- Client support and technical analysis
+
+## Projects
+- IT Asset Management System
+- Voucher Generator (Python)
+- Portfolio Website
+
+## Contact
+Email: ichrafjarroudi9@gmail.com
